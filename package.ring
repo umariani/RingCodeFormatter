@@ -5,7 +5,7 @@ aPackageInfo = [
 	:developer = "umariani",
 	:email = "",
 	:license = "MIT License",
-	:version = "1.0.0",
+	:version = "1.0.1",
 	:ringversion = "1.23",
 	:versions = 	[
 		[
@@ -21,8 +21,6 @@ aPackageInfo = [
 		]
 	],
 	:files = 	[
-		"lib.ring",
-		"main.ring",
 		"CodeFormatter.ring"
 	],
 	:ringfolderfiles = 	[
@@ -82,4 +80,5 @@ aPackageInfo = [
 	:macosremove = "",
 	:ubunturemove = "",
 	:fedoraremove = ""
+
 ]
