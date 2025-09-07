@@ -9,7 +9,7 @@ aPackageInfo = [
 	:ringversion = "1.23",
 	:versions = 	[
 		[
-			:version = "1.0.0",
+			:version = "1.0.1",
 			:branch = "master"
 		]
 	],
@@ -82,3 +82,4 @@ aPackageInfo = [
 	:fedoraremove = ""
 
 ]
+
